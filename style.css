@@ -1,0 +1,26 @@
+body {
+  height: 100vh;
+  background: linear-gradient(#e18686 50%, #ec6041 50%);
+}
+
+.container {
+  width: 450px;
+  background-color: #ffffff;
+  padding: 4em 2em;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border-radius: 0.5em;
+  font-family: "Comic Sans MS", cursive;
+  font-size: 1.2em;
+  box-shadow: 0 1.6em 2.4em rgba(251, 251, 251, 0.3);
+}
+
+h2 {
+  margin-bottom: 25px;
+}
+
+p {
+  color: black;
+}
